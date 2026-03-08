@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+JARVIS+AI+Assistant+%E2%9A%A1;Computer+Engineering+%E2%80%94+MSBTE+4th+Semester;Local+AI+%7C+Python+%7C+Java+OOP+%7C+Web+Dev;Turning+ideas+into+working+projects+since+day+one)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+JARVIS+AI+Assistant+%E2%9A%A1;Computer+Engineering+%E2%80%94+MSBTE+4th+Semester;Local+AI+%7C+Python+%7C+Java+OOP+%7C+Web+Dev;Turning+ideas+into+working+projects+since+day+one)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,21 +18,19 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prahaldgadekar&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/prahaldgadekar?color=00e5ff&style=for-the-badge&logo=github&label=FOLLOWERS)
-![GitHub User's stars](https://img.shields.io/github/stars/prahaldgadekar?color=ffd700&style=for-the-badge&logo=github&label=TOTAL+STARS)
+![GitHub Stars](https://img.shields.io/github/stars/prahaldgadekar?color=ffd700&style=for-the-badge&logo=github&label=TOTAL+STARS)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Professional Summary
+## 🧑‍💻 Professional Summary
 
 <table>
 <tr>
-<td>
+<td width="55%">
 
 ```yaml
 Name        : Prahlad Gadekar
@@ -40,13 +38,13 @@ Role        : Computer Engineering Student
 Institute   : MSBTE — 4th Semester
 Location    : Pune, Maharashtra, India
 Status      : Open to Collaborations
-Focus       : AI Tools · Web Development · Open Source
+Focus       : AI Tools · Web Dev · Open Source
 Specialty   : Building real projects from scratch
 Contact     : prahaldgadekar64@gmail.com
 ```
 
 </td>
-<td>
+<td width="45%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
@@ -54,15 +52,11 @@ Contact     : prahaldgadekar64@gmail.com
 </tr>
 </table>
 
-<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
-
-<div align="center">
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -71,13 +65,14 @@ Contact     : prahaldgadekar64@gmail.com
 <h3 align="center">⚡ JARVIS AI Assistant</h3>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2000&pause=500&color=00E5FF&center=true&width=300&lines=Status%3A+ACTIVE+DEVELOPMENT;Local+AI+%7C+No+Cloud+%7C+No+Subscription;Voice+Control+%7C+Live+APIs+%7C+HUD+UI" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2000&pause=500&color=00E5FF&center=true&width=300&lines=Status%3A+ACTIVE+DEVELOPMENT;Local+AI+%7C+No+Cloud+%7C+No+Subscription;Voice+Control+%7C+Live+APIs+%7C+HUD+UI)](https://git.io/typing-svg)
+
 </div>
 
 A cinematic Iron Man inspired AI desktop assistant. Runs 100% locally using Ollama. Features rotating HUD, voice control, live crypto and weather APIs, and Windows desktop automation.
 
-**Tech Stack:**
-
+**Stack:**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![PySide6](https://img.shields.io/badge/PySide6-00e5ff?style=flat-square&logo=qt&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-ffd700?style=flat-square)
@@ -89,13 +84,14 @@ A cinematic Iron Man inspired AI desktop assistant. Runs 100% locally using Olla
 <h3 align="center">🌐 Web Projects</h3>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2000&pause=500&color=00FFCC&center=true&width=300&lines=Internship+Dashboards;Student+Productivity+Tools;Clean+UI+%7C+Real+Functionality" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2000&pause=500&color=00FFCC&center=true&width=300&lines=Internship+Dashboards;Student+Productivity+Tools;Clean+UI+%7C+Real+Functionality)](https://git.io/typing-svg)
+
 </div>
 
 Building internship dashboards and student productivity apps with modern design. Focused on real-world usability and clean architecture for student developers.
 
-**Tech Stack:**
-
+**Stack:**
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
@@ -105,15 +101,11 @@ Building internship dashboards and student productivity apps with modern design.
 </tr>
 </table>
 
-</div>
-
-<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> Technology Arsenal
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
@@ -141,44 +133,40 @@ Building internship dashboards and student productivity apps with modern design.
 ![Ollama](https://img.shields.io/badge/Ollama-Local_AI-ffd700?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-</div>
-
 <br/>
 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,mysql,mongodb,git,github,vscode&theme=dark&perline=6" />
+
 </div>
 
-<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prahaldgadekar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00e5ff&icon_color=00ffcc&text_color=ffffff&bg_color=0d1117" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahaldgadekar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=00e5ff&text_color=ffffff&bg_color=0d1117" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prahaldgadekar&theme=tokyonight" width="95%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prahaldgadekar&theme=tokyonight" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prahaldgadekar&theme=tokyonight" height="170"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=prahaldgadekar&theme=tokyonight&hide_border=true&stroke=00e5ff&ring=00e5ff&fire=ffd700&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=888888&background=0d1117" height="170"/>
+<img src="https://streak-stats.demolab.com?user=prahaldgadekar&theme=tokyonight&hide_border=true&stroke=00e5ff&ring=00e5ff&fire=ffd700&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=888888" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prahaldgadekar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffd700&area=true&area_color=00e5ff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prahaldgadekar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffd700&area=true" width="95%"/>
 
 </div>
 
-<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -203,29 +191,23 @@ Building internship dashboards and student productivity apps with modern design.
 
 </div>
 
-<div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Areas of Expertise
+## 📈 Skills Overview
 
 <div align="center">
 
-| Domain | Skills | Level |
+| Domain | Technologies | Level |
 |---|---|---|
-| AI and Local LLMs | Ollama · phi3 · LLaMA · Python integration | ████████░░ Growing |
-| Object Oriented Programming | Java OOP · Classes · Inheritance · Polymorphism | ████████░░ Growing |
-| Web Development | HTML · CSS · JavaScript · Responsive Design | ███████░░░ Learning |
-| Systems Programming | C · C++ · Memory management · Algorithms | ██████░░░░ Learning |
-| Developer Tools | Git · GitHub · VS Code · CLI | █████████░ Comfortable |
+| AI and Local LLMs | Ollama · phi3 · LLaMA · Python | ████████░░ Growing |
+| Object Oriented Programming | Java OOP · Classes · Inheritance | ████████░░ Growing |
+| Web Development | HTML · CSS · JavaScript | ███████░░░ Learning |
+| Systems Programming | C · C++ · Algorithms | ██████░░░░ Learning |
+| Developer Tools | Git · GitHub · VS Code | █████████░ Comfortable |
 | Databases | MySQL · MongoDB · SQLite | ██████░░░░ Learning |
 
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
@@ -234,11 +216,11 @@ Building internship dashboards and student productivity apps with modern design.
 
 <div align="center">
 
-`Java OOP` &nbsp; `MSBTE Curriculum` &nbsp; `Local AI with Ollama` &nbsp; `Python Automation`
+`Java OOP` &nbsp;&nbsp; `MSBTE Curriculum` &nbsp;&nbsp; `Local AI with Ollama` &nbsp;&nbsp; `Python Automation`
 
-`Beginner Web Dev` &nbsp; `Open Source for Students` &nbsp; `Building AI Tools on Windows`
+`Beginner Web Dev` &nbsp;&nbsp; `Open Source for Students` &nbsp;&nbsp; `Building AI Tools on Windows`
 
-`GitHub Portfolio Tips` &nbsp; `JARVIS Project` &nbsp; `Starting Programming as a Student`
+`GitHub Portfolio Tips` &nbsp;&nbsp; `JARVIS Project` &nbsp;&nbsp; `Starting Programming as a Student`
 
 </div>
 
@@ -246,10 +228,10 @@ Building internship dashboards and student productivity apps with modern design.
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20learn%20by%20building%2C%20not%20just%20watching%20tutorials&author=Prahlad%20Gadekar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0d1b4b,100:0a0a2e&height=120&section=footer&text=Open%20to%20Collaborate%20%E2%80%94%20Let%27s%20Build%20Something&fontSize=18&fontColor=00e5ff&animation=twinkling"/>
 
-<br/><br/>
+[![](https://visitcount.itsvg.in/api?id=prahaldgadekar&icon=6&color=6)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:0d1b4b,100:0a0a2e&height=120&section=footer&text=Open%20to%20Collaborate%20%E2%80%94%20Let's%20Build%20Something&fontSize=18&fontColor=00e5ff&animation=twinkling"/>
+**⚡ "I learn by building, not just watching tutorials" — Prahlad Gadekar**
 
 </div>
